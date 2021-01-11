@@ -1,0 +1,13 @@
+C:\Users\BOICOMP20070033\source\repos\LinqLearning11Jan21\LinqLearning11Jan21\bin\Debug\netcoreapp3.1\LinqLearning11Jan21.exe
+C:\Users\BOICOMP20070033\source\repos\LinqLearning11Jan21\LinqLearning11Jan21\bin\Debug\netcoreapp3.1\LinqLearning11Jan21.deps.json
+C:\Users\BOICOMP20070033\source\repos\LinqLearning11Jan21\LinqLearning11Jan21\bin\Debug\netcoreapp3.1\LinqLearning11Jan21.runtimeconfig.json
+C:\Users\BOICOMP20070033\source\repos\LinqLearning11Jan21\LinqLearning11Jan21\bin\Debug\netcoreapp3.1\LinqLearning11Jan21.runtimeconfig.dev.json
+C:\Users\BOICOMP20070033\source\repos\LinqLearning11Jan21\LinqLearning11Jan21\bin\Debug\netcoreapp3.1\LinqLearning11Jan21.dll
+C:\Users\BOICOMP20070033\source\repos\LinqLearning11Jan21\LinqLearning11Jan21\bin\Debug\netcoreapp3.1\LinqLearning11Jan21.pdb
+C:\Users\BOICOMP20070033\source\repos\LinqLearning11Jan21\LinqLearning11Jan21\obj\Debug\netcoreapp3.1\LinqLearning11Jan21.csprojAssemblyReference.cache
+C:\Users\BOICOMP20070033\source\repos\LinqLearning11Jan21\LinqLearning11Jan21\obj\Debug\netcoreapp3.1\LinqLearning11Jan21.AssemblyInfoInputs.cache
+C:\Users\BOICOMP20070033\source\repos\LinqLearning11Jan21\LinqLearning11Jan21\obj\Debug\netcoreapp3.1\LinqLearning11Jan21.AssemblyInfo.cs
+C:\Users\BOICOMP20070033\source\repos\LinqLearning11Jan21\LinqLearning11Jan21\obj\Debug\netcoreapp3.1\LinqLearning11Jan21.csproj.CoreCompileInputs.cache
+C:\Users\BOICOMP20070033\source\repos\LinqLearning11Jan21\LinqLearning11Jan21\obj\Debug\netcoreapp3.1\LinqLearning11Jan21.dll
+C:\Users\BOICOMP20070033\source\repos\LinqLearning11Jan21\LinqLearning11Jan21\obj\Debug\netcoreapp3.1\LinqLearning11Jan21.pdb
+C:\Users\BOICOMP20070033\source\repos\LinqLearning11Jan21\LinqLearning11Jan21\obj\Debug\netcoreapp3.1\LinqLearning11Jan21.genruntimeconfig.cache
